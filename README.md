@@ -17,7 +17,7 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 
 
 <b>Projetos</b><br>
-» Clone Netflix -> https://jdugalde.github.io/netflix-clone/ <br>
+» Clone Netflix: https://jdugalde.github.io/netflix-clone/ <br>
 » Página de login Instagram: https://jdugalde.github.io/pagina-instagram/ <br>
 » Jogo da Cobrinha: https://jdugalde.github.io/jogo-cobrinha/ <br>
 <!--
