@@ -9,7 +9,7 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 
 ##### 📚 Atualmente cursando Análise e desenvolvimento de sistemas
 
-##### 💻 Aprendendo mais sobre HTML5, CSS3, JavaScript, .NET, Azure, C#, NodeJs, VueJs, ReactJs, AngularJs, PWA, SPA, Bootstrap, JQuery e MySQL.
+##### 💻 Aprendendo mais sobre HTML5, CSS3, JavaScript, .NET, Azure, C#, NodeJs, VueJs, ReactJs, AngularJs, PWA, SPA, Bootstrap, JQuery e SQL Server.
 
 ###### <b>Você me acha por aqui</b><br>
 ✉ E-mail: julianougalde@gmail.com <br>
