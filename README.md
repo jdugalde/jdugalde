@@ -7,7 +7,7 @@ Procuro sempre me atualizar com as novas tecnologias e mudanças na área de des
 Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, e obtendo novos conhecimentos.</i>
 
 
-##### 📚 Atualmente cursando Análise e desenvolvimento de sistemas
+##### 📚 Atualmente cursando Análise e desenvolvimento de sistemas na Estácio de Sá
 
 ##### 💻 Aprendendo mais sobre HTML5, CSS3, JavaScript, .NET, Azure, C#, NodeJs, VueJs, ReactJs, AngularJs, PWA, SPA, Bootstrap, JQuery e SQL Server.
 
