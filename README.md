@@ -20,6 +20,9 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 » Clone Netflix: https://jdugalde.github.io/netflix-clone/ <br>
 » Página de login Instagram: https://jdugalde.github.io/pagina-instagram/ <br>
 » Jogo da Cobrinha: https://jdugalde.github.io/jogo-cobrinha/ <br>
+
+<b> Outros Projetos</b><br>
+» Site criado no Curso da Flex: https://jdugalde.github.io/site-curso-flex/
 <!--
 **jdugalde/jdugalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
