@@ -42,7 +42,7 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 </div>
 
 https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianougalde@gmail.com)](mailto:julianougalde@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianougalde@gmail.com)](mailto:julianougalde@gmail.com)
 
 #### Projetos - Digital Innovation One
 
