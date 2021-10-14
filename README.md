@@ -1,7 +1,7 @@
 #### Olá eu sou Juliano Ugalde
 <b><i>Desenvolvedor Front-End Jr </i></b><br>
 ##### Sobre mim
-<i>Sou um entusiasta da tecnologia e desenvolvimento de aplicações Web desde meados do ano 2000. Mais de 15 anos de experiência como técnico de informática e suporte técnico ao cliente. Atualmente morando em São José-SC, trabalho de freelance na Estúdio Art Digital com criação de artes gráficas e desenvolvimento de sites em Wordpress, HTML5, CSS3, Javascript, Bootstrap e Banco de dados.
+<i>Sou um apaixonado por tecnologia e desenvolvimento de aplicações Web desde meados do ano 2000. Mais de 15 anos de experiência como técnico de informática e suporte técnico ao cliente. Atualmente morando em São José-SC, trabalho de freelance na Estúdio Art Digital com criação de artes gráficas e desenvolvimento de sites em Wordpress, HTML5, CSS3, Javascript, Bootstrap e Banco de dados.
 Tenho conhecimentos em automações comerciais, sistemas operacionais Windows, Linux, pacote Office, configurações de impressoras, servidores de hospedagem, Adobe Photoshop, CorelDraw, Visual Studio Code, Node.JS e MySQL.
 Procuro sempre me atualizar com as novas tecnologias e mudanças na área de desenvolvimento, para aplicar posteriormente esses conhecimentos em meu trabalho.
 Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, e obtendo novos conhecimentos.</i>
@@ -16,6 +16,8 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=jdugalde)](jdugalde)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white= LINK_LINKEDIN)]( LINK_LINKEDIN)
+
+[![Instagram Badge] https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 ###### <b>Você me acha por aqui</b><br>
 https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
