@@ -17,7 +17,8 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
-[![Instagram Badge] https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+![image]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
+
 
 ###### <b>Você me acha por aqui</b><br>
 https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
