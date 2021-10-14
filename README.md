@@ -9,7 +9,7 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 
 #### 📚 Atualmente cursando Análise e desenvolvimento de sistemas na Estácio de Sá
 [![Estacio de Sa Badge](https://img.shields.io/badge/Estacio-5E5C5C?style=for-the-badge&logo=estacio&logoColor=F7DF1E=)](#)
-[![Dígital%20Innovation%20One Badge](https://img.shields.io/badge/DIO-F15B2A?style=for-the-badge&logo=dio&logoColor=white=#)](#)
+[![Pluralsight Badge](https://img.shields.io/badge/DIO-F15B2A?style=for-the-badge&logo=dio&logoColor=white=#)](#)
 
 #### 💻 Linguagens
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white=#)](#)
