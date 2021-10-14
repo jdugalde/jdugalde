@@ -11,25 +11,33 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 
 ##### 💻 Aprendendo mais sobre HTML5, CSS3, JavaScript, .NET, Azure, C#, NodeJs, VueJs, ReactJs, AngularJs, PWA, SPA, Bootstrap, JQuery e SQL Server.
 
+#### Você me acha por aqui
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white=)](#)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white=)](#)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E=)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white=)](#)
-[![.NET Badge](https://img.shields.io/badge/.NET-1572B6?style=for-the-badge&logo=dotnet&logoColor=white=)](#)
+[![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white=)](#)
 [![C%23 Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white=)](#)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white=)](#)
 [![Microsoft%20SQL%20Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white=)](#)
 [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen=)](#)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white=)](#)
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white=)](#)
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white=)](#)
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white=)](#)
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white=)](#)
 
 
 
-###### <b>Você me acha por aqui</b><br>
-✉ E-mail: julianougalde@gmail.com <br>
-🎯 Linkdin: https://www.linkedin.com/in/julianodamasco/
+#### Você me acha por aqui
 
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/jdugalde)](https://github.com/jdugalde)
+[![LinkdIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/julianodamasco/)](https://www.linkedin.com/in/julianodamasco/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&Link=https://www.instagram.com/jdugalde/)](https://www.instagram.com/jdugalde/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=malito: julianougalde@gmail.com)](malito: julianougalde@gmail.com)
 
-<b>Projetos - Digital Innovation One </b><br>
+#### Projetos - Digital Innovation One
+
 » Clone Netflix: https://jdugalde.github.io/netflix-clone/ <br>
 » Página de login Instagram: https://jdugalde.github.io/pagina-instagram/ <br>
 » Jogo da Cobrinha: https://jdugalde.github.io/jogo-cobrinha/ <br>
@@ -37,12 +45,7 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 <b> Outros Projetos</b><br>
 » Site criado no Curso da Flex: https://jdugalde.github.io/site-curso-flex/
 
-#### Você me acha por aqui
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/jdugalde)](https://github.com/jdugalde)
-[![LinkdIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/julianodamasco/)](https://www.linkedin.com/in/julianodamasco/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&Link=https://www.instagram.com/jdugalde/)](https://www.instagram.com/jdugalde/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&Link=malito: julianougalde@gmail.com)](malito: julianougalde@gmail.com)
 
 
 <!--
