@@ -13,9 +13,8 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=jdugalde)](jdugalde)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jdugalde)](https://github.com/jdugalde)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
 [![Instagram Badge]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})]
 
