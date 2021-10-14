@@ -18,6 +18,7 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
 ###### <b>Você me acha por aqui</b><br>
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 ✉ E-mail: julianougalde@gmail.com <br>
 🎯 Linkdin: https://www.linkedin.com/in/julianodamasco/
 
