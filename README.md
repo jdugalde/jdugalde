@@ -13,6 +13,7 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 
 ###### <b>Você me acha por aqui</b><br>
 ✉ E-mail: julianougalde@gmail.com <br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/julianodamasco/)]( https://www.linkedin.com/in/julianodamasco/)
 🎯 Linkdin: https://www.linkedin.com/in/julianodamasco/
 
 
