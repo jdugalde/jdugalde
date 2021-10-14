@@ -1,18 +1,18 @@
 #### Olá eu sou Juliano Ugalde
 <b><i>Desenvolvedor Front-End Jr </i></b><br>
 ##### Sobre mim
-<i>Sou um apaixonado por tecnologia e desenvolvimento de aplicações Web desde meados do ano 2000. Mais de 15 anos de experiência como técnico de informática e suporte técnico ao cliente. Atualmente morando em São José-SC, trabalho de freelance na Estúdio Art Digital com criação de artes gráficas e desenvolvimento de sites em Wordpress, HTML5, CSS3, Javascript, Bootstrap e Banco de dados.
+<i>Sou um apaixonado por tecnologia e desenvolvimento de aplicações Web desde meados do ano 2000. Mais de 15 anos de experiência como técnico de informática e suporte técnico ao cliente. Atualmente morando em São José-SC, trabalho de freelance na Estúdio Art Digital com criação de artes gráficas e desenvolvimento de sites.
 Tenho conhecimentos em automações comerciais, sistemas operacionais Windows, Linux, pacote Office, configurações de impressoras, servidores de hospedagem, Adobe Photoshop, CorelDraw, Visual Studio Code, Node.JS e MySQL.
 Procuro sempre me atualizar com as novas tecnologias e mudanças na área de desenvolvimento, para aplicar posteriormente esses conhecimentos em meu trabalho.
 Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, e obtendo novos conhecimentos.</i>
 
 
-##### 📚 Atualmente cursando Análise e desenvolvimento de sistemas na Estácio de Sá
+#### 📚 Atualmente cursando Análise e desenvolvimento de sistemas na Estácio de Sá
+[![Estacio Badge](https://img.shields.io/badge/Estacio-323330?style=for-the-badge&logo=estacio&logoColor=F7DF1E=)](#)
+[![DIO Badge](https://img.shields.io/badge/Digital-Innovation-One-F15B2A?style=for-the-badge&logo=dio&logoColor=white=#)](#)
 
-##### 💻 Aprendendo mais sobre HTML5, CSS3, JavaScript, .NET, Azure, C#, NodeJs, VueJs, ReactJs, AngularJs, PWA, SPA, Bootstrap, JQuery e SQL Server.
-
-#### Linguagens
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white=)](#)
+#### 💻 Linguagens
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white=#)](#)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white=)](#)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E=)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white=)](#)
@@ -44,6 +44,8 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 #### 👩‍💻 IDE
 [![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white=)](#)
 [![Visual_Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white=)](#)
+
+#### 👩‍💻 IDE
 
 #### 📱 Você me acha por aqui
 
