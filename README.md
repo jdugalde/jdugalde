@@ -11,9 +11,14 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 
 ##### 💻 Aprendendo mais sobre HTML5, CSS3, JavaScript, .NET, Azure, C#, NodeJs, VueJs, ReactJs, AngularJs, PWA, SPA, Bootstrap, JQuery e SQL Server.
 
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+
 ###### <b>Você me acha por aqui</b><br>
 ✉ E-mail: julianougalde@gmail.com <br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/julianodamasco/)]( https://www.linkedin.com/in/julianodamasco/)
 🎯 Linkdin: https://www.linkedin.com/in/julianodamasco/
 
 
