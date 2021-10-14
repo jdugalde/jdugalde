@@ -29,11 +29,14 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 
 
 
-#### Você me acha por aqui
+#### 📱 Você me acha por aqui
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/jdugalde)](https://github.com/jdugalde)
 [![LinkdIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/julianodamasco/)](https://www.linkedin.com/in/julianodamasco/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&Link=https://www.instagram.com/jdugalde/)](https://www.instagram.com/jdugalde/)
+
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=malito: julianougalde@gmail.com)](malito: julianougalde@gmail.com)
 
 #### Projetos - Digital Innovation One
@@ -45,7 +48,15 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 <b> Outros Projetos</b><br>
 » Site criado no Curso da Flex: https://jdugalde.github.io/site-curso-flex/
 
-
+<div>
+    <a href="https://api.whatsapp.com/send?phone=551199999999&text=Olá,%20este%20é%20um%20texto%20que%20você%20pode%20modificar."
+      target="_blank" class="float">
+      <img src="img/whatsapp.svg" alt="whatsapp" width="50">
+    </a>
+    <div id="caixaTexto">
+      Fale conosco via WhatsApp
+    </div>
+  </div>
 
 
 <!--
