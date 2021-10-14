@@ -6,9 +6,21 @@ Procuro sempre me atualizar com as novas tecnologias e mudanças na área de des
 Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, e obtendo novos conhecimentos.</i>
 
 
-#### 📚 Atualmente cursando Análise e desenvolvimento de sistemas na Estácio de Sá
+#### 📚 Atualmente cursando Análise e desenvolvimento de sistemas
 [![Estacio de Sa Badge](https://img.shields.io/badge/Estacio%20de%20Sa-5E5C5C?style=for-the-badge&logo=estacio&logoColor=F7DF1E=)](#)
 [![Pluralsight Badge](https://img.shields.io/badge/Digital%20Innovation%20One-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white=#)](#)
+
+#### 📱 Você me acha por aqui
+
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/jdugalde)](https://github.com/jdugalde)
+[![LinkdIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/julianodamasco/)](https://www.linkedin.com/in/julianodamasco/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&Link=https://www.instagram.com/jdugalde/)](https://www.instagram.com/jdugalde/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/julianodamasco)](https://t.me/julianodamasco)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:julianougalde@gmail.com)](mailto:julianougalde@gmail.com)
+<a href="https://api.whatsapp.com/send?phone=5548998388036&text=Olá!."
+      target="_blank" class="float">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
+    </a>
 
 #### 💻 Linguagens
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white=#)](#)
@@ -55,23 +67,10 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 [![Microsoft_Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white=)](#)
 [![Microsoft_PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white=)](#)
 [![Microsoft_SQL_Server Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white=)](#)
-[![Trello Badge]https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white=)](#)
+[![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white=)](#)
 
 #### 💻 Workspace Spec
 [![dell-laptop Badge](https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white=)](#)
-
-#### 📱 Você me acha por aqui
-
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/jdugalde)](https://github.com/jdugalde)
-[![LinkdIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/julianodamasco/)](https://www.linkedin.com/in/julianodamasco/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&Link=https://www.instagram.com/jdugalde/)](https://www.instagram.com/jdugalde/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/julianodamasco)](https://t.me/julianodamasco)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:julianougalde@gmail.com)](mailto:julianougalde@gmail.com)
-<a href="https://api.whatsapp.com/send?phone=5548998388036&text=Olá!."
-      target="_blank" class="float">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
-    </a>
-
 
 #### 💡 Projetos - Digital Innovation One
 
