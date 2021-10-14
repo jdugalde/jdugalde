@@ -34,8 +34,6 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/jdugalde)](https://github.com/jdugalde)
 [![LinkdIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/julianodamasco/)](https://www.linkedin.com/in/julianodamasco/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&Link=https://www.instagram.com/jdugalde/)](https://www.instagram.com/jdugalde/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548998388036&text=Olá!)](https://api.whatsapp.com/send?phone=5548998388036&text=Olá!)
-
 <div>
     <a href="https://api.whatsapp.com/send?phone=5548998388036&text=Olá!."
       target="_blank" class="float">
@@ -43,7 +41,7 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
     </a>
 </div>
 
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+[![Telegram Badge](https://img.shields.io/badge/Telegram-c14438?style=flat-square&logo=Gmail&logoColor=white&link=#)](#)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianougalde@gmail.com)](mailto:julianougalde@gmail.com)
 
 #### Projetos - Digital Innovation One
