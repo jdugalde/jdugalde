@@ -39,7 +39,7 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
     </a>
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/julianodamasco)](https://t.me/julianodamasco)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-square&logo=telegram&logoColor=white&link=https://t.me/julianodamasco)](https://t.me/julianodamasco)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianougalde@gmail.com)](mailto:julianougalde@gmail.com)
 
 #### Projetos - Digital Innovation One
