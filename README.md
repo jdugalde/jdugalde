@@ -44,8 +44,22 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 #### 👩‍💻 IDE
 [![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white=)](#)
 [![Visual_Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white=)](#)
+[![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black=)](#)
 
-#### 👩‍💻 IDE
+#### 💻 OS
+[![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white=)](#)
+[![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black=)](#)
+[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white=)](#)
+
+#### 💻 Office
+[![Microsoft_Word Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white=)](#)
+[![Microsoft_Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white=)](#)
+[![Microsoft_PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white=)](#)
+[![Microsoft_SQL_Server Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white=)](#)
+[![Trello Badge]https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white=)](#)
+
+#### 💻 Workspace Spec
+[![dell-laptop Badge](https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white=)](#)
 
 #### 📱 Você me acha por aqui
 
