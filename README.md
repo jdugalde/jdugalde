@@ -1,9 +1,10 @@
 #### Olá eu sou Juliano Ugalde
 <b><i>Desenvolvedor Front-End Jr </i></b><br>
-##### Sobre mim
+
+#### 👨 Sobre mim
 <i>Sou um apaixonado por tecnologia e desenvolvimento de aplicações Web desde meados do ano 2000. Mais de 15 anos de experiência como técnico de informática e suporte técnico ao cliente. Atualmente morando em São José-SC, trabalho de freelance na Estúdio Art Digital com criação de artes gráficas e desenvolvimento de sites.
 Procuro sempre me atualizar com as novas tecnologias e mudanças na área de desenvolvimento, para aplicar posteriormente esses conhecimentos em meu trabalho.
-Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, e obtendo novos conhecimentos.</i>
+Gosto de trabalhar em equipe e assim junto aos colegas estar sempre evoluindo e obtendo novos conhecimentos.</i>
 
 
 #### 📚 Atualmente cursando Análise e desenvolvimento de sistemas
@@ -77,7 +78,7 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 » Clone Netflix: https://jdugalde.github.io/netflix-clone/ <br>
 » Página de login Instagram: https://jdugalde.github.io/pagina-instagram/ <br>
 » Jogo da Cobrinha: https://jdugalde.github.io/jogo-cobrinha/ <br>
-» Criando uma página: https://jdugalde.github.io/site-curso-flex/
+» Criando uma página com Bootstrap: https://jdugalde.github.io/site-curso-flex/
 
 
 
