@@ -51,7 +51,7 @@ https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&l
 <div>
     <a href="https://api.whatsapp.com/send?phone=551199999999&text=Olá,%20este%20é%20um%20texto%20que%20você%20pode%20modificar."
       target="_blank" class="float">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" width="50">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
     </a>
     <div id="caixaTexto">
       Fale conosco via WhatsApp
