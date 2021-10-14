@@ -13,7 +13,7 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/jdugalde)](https://github.com/jdugalde)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/jdugalde target="_blank")](https://github.com/jdugalde target="_blank")
 [![LinkdIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/julianodamasco/)](https://www.linkedin.com/in/julianodamasco/)
 
 
