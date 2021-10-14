@@ -10,10 +10,9 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 ##### 📚 Atualmente cursando Análise e desenvolvimento de sistemas na Estácio de Sá
 
 ##### 💻 Aprendendo mais sobre HTML5, CSS3, JavaScript, .NET, Azure, C#, NodeJs, VueJs, ReactJs, AngularJs, PWA, SPA, Bootstrap, JQuery e SQL Server.
-
+[![HTML5 Badge] (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ###### <b>Você me acha por aqui</b><br>
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 ✉ E-mail: julianougalde@gmail.com <br>
 🎯 Linkdin: https://www.linkedin.com/in/julianodamasco/
 
@@ -26,7 +25,7 @@ https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&l
 <b> Outros Projetos</b><br>
 » Site criado no Curso da Flex: https://jdugalde.github.io/site-curso-flex/
 
-#### About me
+#### Você me acha por aqui
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/jdugalde)](https://github.com/jdugalde)
 [![LinkdIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/julianodamasco/)](https://www.linkedin.com/in/julianodamasco/)
