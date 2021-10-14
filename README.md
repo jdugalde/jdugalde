@@ -10,7 +10,9 @@ Gosto de trabalhar em equipe e assim junto aos colegas sempre estar aprendendo, 
 ##### 📚 Atualmente cursando Análise e desenvolvimento de sistemas na Estácio de Sá
 
 ##### 💻 Aprendendo mais sobre HTML5, CSS3, JavaScript, .NET, Azure, C#, NodeJs, VueJs, ReactJs, AngularJs, PWA, SPA, Bootstrap, JQuery e SQL Server.
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white=https://github.com/jdugalde)](https://github.com/jdugalde)
+
 
 ###### <b>Você me acha por aqui</b><br>
 ✉ E-mail: julianougalde@gmail.com <br>
