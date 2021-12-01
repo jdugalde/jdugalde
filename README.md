@@ -2,9 +2,9 @@
 <b><i>Desenvolvedor Front-End Jr </i></b><br>
 
 #### 👨 Sobre mim
-<i>Sou um apaixonado por tecnologia e desenvolvimento de aplicações Web desde meados do ano 2000. Mais de 15 anos de experiência como técnico de informática e suporte técnico ao cliente. Atualmente morando em São José-SC, trabalho de freelance na Estúdio Art Digital com criação de artes gráficas e desenvolvimento de sites.
-Procuro sempre me atualizar com as novas tecnologias e mudanças na área de desenvolvimento, para aplicar posteriormente esses conhecimentos em meu trabalho.
-Gosto de trabalhar em equipe e assim junto aos colegas estar sempre evoluindo e obtendo novos conhecimentos.</i>
+<i>Estou em transição de carreira, atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Estácio de Sá, e além da faculdade faço cursos adicionais na Plataforma da Digital Innovation One.
+
+Buscando evoluir meus conhecimentos estou prendendo mais com as tecnologias HTML5, CSS3, Bootstrap, UX/UI, Javascript, JQuery, React JS, Angular JS, Node JS, .Net, C#, MySQL, SQL Server e GitHub.</i>
 
 
 #### 📚 Atualmente cursando Análise e desenvolvimento de sistemas
@@ -27,25 +27,33 @@ Gosto de trabalhar em equipe e assim junto aos colegas estar sempre evoluindo e 
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white=)](#)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E=)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white=)](#)
+<!---
 [![C%23 Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white=)](#)
 [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen=)](#)
-[![json Badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white=)](#)
+[![json Badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white=)](#)*/
+-->
 
 #### ⚡ Database
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white=)](#)
+<!---
 [![Microsoft%20SQL%20Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white=)](#)
+-->
 
 #### 🚀 Frameworks
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white=)](#)
 [![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white=)](#)
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white=)](#)
+<!---
 [![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white=)](#)
 [![NuGet Badge](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white=)](#)
+-->
 [![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D=)](#)
 [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white=)](#)
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB=)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white=)](#)
+<!---
 [![Microsoft Badge](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white=)](#)
+-->
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white=)](#)
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white=)](#)
 
