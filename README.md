@@ -15,7 +15,9 @@ Buscando evoluir meus conhecimentos estou prendendo mais com as tecnologias HTML
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/jdugalde)](https://github.com/jdugalde)
 [![LinkdIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/julianodamasco/)](https://www.linkedin.com/in/julianodamasco/)
+<!--
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/julianodamasco)](https://t.me/julianodamasco)
+-->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:julianougalde@gmail.com)](mailto:julianougalde@gmail.com)
 <a href="https://api.whatsapp.com/send?phone=5548998388036&text=Olá!."
       target="_blank" class="float">
@@ -27,8 +29,8 @@ Buscando evoluir meus conhecimentos estou prendendo mais com as tecnologias HTML
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white=)](#)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E=)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white=)](#)
-<!---
 [![C%23 Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white=)](#)
+<!---
 [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen=)](#)
 [![json Badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white=)](#)*/
 -->
@@ -43,8 +45,9 @@ Buscando evoluir meus conhecimentos estou prendendo mais com as tecnologias HTML
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white=)](#)
 [![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white=)](#)
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white=)](#)
-<!---
 [![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white=)](#)
+<!---
+
 [![NuGet Badge](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white=)](#)
 -->
 [![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D=)](#)
