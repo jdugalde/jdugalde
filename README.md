@@ -85,6 +85,7 @@ Buscando evoluir meus conhecimentos estou prendendo mais com as tecnologias HTML
 
 #### 💡 Projetos - Digital Innovation One
 
+» Jogo Resgate: https://jdugalde.github.io/jogo-resgate/
 » Clone Netflix: https://jdugalde.github.io/netflix-clone/ <br>
 » Página de login Instagram: https://jdugalde.github.io/pagina-instagram/ <br>
 » Jogo da Cobrinha: https://jdugalde.github.io/jogo-cobrinha/ <br>
