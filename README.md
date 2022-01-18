@@ -6,6 +6,13 @@
 
 Buscando evoluir meus conhecimentos estou prendendo mais com as tecnologias HTML5, CSS3, Bootstrap, UX/UI, Javascript, JQuery, React JS, Angular JS, Node JS, .Net, C#, MySQL, SQL Server e GitHub.</i>
 
+#### 💡 Projetos - Digital Innovation One
+
+» Jogo Resgate: https://jdugalde.github.io/jogo-resgate/ <br>
+» Clone Netflix: https://jdugalde.github.io/netflix-clone/ <br>
+» Página de login Instagram: https://jdugalde.github.io/pagina-instagram/ <br>
+» Jogo da Cobrinha: https://jdugalde.github.io/jogo-cobrinha/ <br>
+» Criando uma página com Bootstrap: https://jdugalde.github.io/site-curso-flex/
 
 #### 📚 Atualmente cursando Análise e desenvolvimento de sistemas
 [![Estacio de Sa Badge](https://img.shields.io/badge/Estacio%20de%20Sa-5E5C5C?style=for-the-badge&logo=estacio&logoColor=F7DF1E=)](#)
@@ -83,13 +90,6 @@ Buscando evoluir meus conhecimentos estou prendendo mais com as tecnologias HTML
 #### 💻 Workspace Spec
 [![dell-laptop Badge](https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white=)](#)
 
-#### 💡 Projetos - Digital Innovation One
-
-» Jogo Resgate: https://jdugalde.github.io/jogo-resgate/ <br>
-» Clone Netflix: https://jdugalde.github.io/netflix-clone/ <br>
-» Página de login Instagram: https://jdugalde.github.io/pagina-instagram/ <br>
-» Jogo da Cobrinha: https://jdugalde.github.io/jogo-cobrinha/ <br>
-» Criando uma página com Bootstrap: https://jdugalde.github.io/site-curso-flex/
 
 
 
