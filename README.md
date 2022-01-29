@@ -87,7 +87,7 @@ Buscando evoluir meus conhecimentos e desenvolvimento profissional faço cursos 
 -->
 #### ☁ Cloud
 [![microsoft%20azure Badge](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white=)](#)
--->
+
 #### 👩‍💻 IDE
 [![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white=)](#)
 [![Visual_Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white=)](#)
