@@ -94,11 +94,6 @@ Buscando evoluir meus conhecimentos e desenvolvimento profissional faço cursos 
 [![microsoft%20azure Badge](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white=)](#)
 -->
 #### 👩‍💻 IDE
-<div dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img align="center" alt="Ton-Next" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/visuals/visual-original.svg"><img align="center" alt="Ton-Next" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visual/visual-original.svg" style="max-width: 100%;"></a>
-</div>
-<!--
 [![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white=)](#)
 [![Visual_Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white=)](#)
 [![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black=)](#)
