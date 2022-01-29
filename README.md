@@ -1,5 +1,5 @@
 #### Olá eu sou Juliano Ugalde
-<b><i>Desenvolvedor Front-End Jr </i></b><br>
+<b><i>Dev Front-End Jr </i></b><br>
 
 <!--
 #### 📚 Atualmente cursando Análise e desenvolvimento de sistemas
