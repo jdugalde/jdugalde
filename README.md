@@ -1,12 +1,28 @@
 #### Olá eu sou Juliano Ugalde
 <b><i>Desenvolvedor Front-End Jr </i></b><br>
 
+<!--
+#### 📚 Atualmente cursando Análise e desenvolvimento de sistemas
+[![Estacio de Sa Badge](https://img.shields.io/badge/Estacio%20de%20Sa-5E5C5C?style=for-the-badge&logo=estacio&logoColor=F7DF1E=)](#)
+[![Pluralsight Badge](https://img.shields.io/badge/Digital%20Innovation%20One-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white=#)](#)
+-->
+
 #### 👨 Sobre mim
-<i>Estudo Análise e Desenvolvimento de Sistemas e desenvolvimento Fullstack.
-Sempre procurando evoluir meus conhecimentos e
-Buscando evoluir meus conhecimentos e desenvolvimento profissional faço cursos extracurriculares.</i>
+<i>Atualmente estudo Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Sá.
+Sempre buscando evoluir meus conhecimentos e desenvolvimento profissional faço cursos extracurriculares em algumas plataformas como a da Digital Innovation One.</i>
 
 #### 💡 Evoluindo em
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35"><img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236"><img src="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374"><img src="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" style="max-width: 100%;"></a>&nbsp;</p>
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/027325c02bd4feaf9c2c64739b147725c72b88b390356877605da33264f90c8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3035313232413f7374796c653d666c6174266c6f676f3d74797065736372697074"><img src="https://camo.githubusercontent.com/027325c02bd4feaf9c2c64739b147725c72b88b390356877605da33264f90c8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3035313232413f7374796c653d666c6174266c6f676f3d74797065736372697074" alt="Typescript" data-canonical-src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&amp;logo=typescript" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/441ef92f4ca6ed08f5179c92de1db983e255289755d138acddb23c503f54fc9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73"><img src="https://camo.githubusercontent.com/441ef92f4ca6ed08f5179c92de1db983e255289755d138acddb23c503f54fc9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73" alt="Node.js" data-canonical-src="https://img.shields.io/badge/-Node.js-05122A?style=flat&amp;logo=node.js" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/73d7e33a62c1f29299c260a2710cc9fe5f2e0a37d1c4d2867964ddeb957cd4a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2e4e45542d3035313232413f7374796c653d666c6174266c6f676f3d646f746e6574"><img src="https://camo.githubusercontent.com/73d7e33a62c1f29299c260a2710cc9fe5f2e0a37d1c4d2867964ddeb957cd4a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2e4e45542d3035313232413f7374796c653d666c6174266c6f676f3d646f746e6574" alt="Dotnet" data-canonical-src="https://img.shields.io/badge/-.NET-05122A?style=flat&amp;logo=dotnet" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7c411a2d6241c34f64b3356fbf8c2db9c0cdff7c8d4975a1b7fc3cb2696b29c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532332d3035313232413f7374796c653d666c6174266c6f676f3d632d7368617270"><img src="https://camo.githubusercontent.com/7c411a2d6241c34f64b3356fbf8c2db9c0cdff7c8d4975a1b7fc3cb2696b29c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532332d3035313232413f7374796c653d666c6174266c6f676f3d632d7368617270" alt="c-sharp" data-canonical-src="https://img.shields.io/badge/-C%23-05122A?style=flat&amp;logo=c-sharp" style="max-width: 100%;"></a>&nbsp;</p>
+
+<!--
 <div dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"><img align="center" alt="Ton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"><img align="center" alt="Ton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="max-width: 100%;"></a>
@@ -20,10 +36,9 @@ Buscando evoluir meus conhecimentos e desenvolvimento profissional faço cursos 
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><img align="center" alt="Ton-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Ton-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"><img align="center" alt="Ton-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><img align="center" alt="Ton-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"><img align="center" alt="Ton-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;"></a>
 </div>
-
+-->
 
 #### 💡 Projetos - Digital Innovation One
 
@@ -33,9 +48,7 @@ Buscando evoluir meus conhecimentos e desenvolvimento profissional faço cursos 
 » Jogo da Cobrinha: https://jdugalde.github.io/jogo-cobrinha/ <br>
 » Criando uma página com Bootstrap: https://jdugalde.github.io/site-curso-flex/
 
-#### 📚 Atualmente cursando Análise e desenvolvimento de sistemas
-[![Estacio de Sa Badge](https://img.shields.io/badge/Estacio%20de%20Sa-5E5C5C?style=for-the-badge&logo=estacio&logoColor=F7DF1E=)](#)
-[![Pluralsight Badge](https://img.shields.io/badge/Digital%20Innovation%20One-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white=#)](#)
+
 
 #### 📱 Você me acha por aqui
 [![LinkdIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/julianodamasco/)](https://www.linkedin.com/in/julianodamasco/)
@@ -59,13 +72,6 @@ Buscando evoluir meus conhecimentos e desenvolvimento profissional faço cursos 
 [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen=)](#)
 [![json Badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white=)](#)*/
 
-
-#### ⚡ Database
-[![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white=)](#)
-
-[![Microsoft%20SQL%20Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white=)](#)
-
-
 #### 🚀 Frameworks
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white=)](#)
 [![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white=)](#)
@@ -85,6 +91,18 @@ Buscando evoluir meus conhecimentos e desenvolvimento profissional faço cursos 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white=)](#)
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white=)](#)
 -->
+
+#### ⚡ Database
+<!--
+[![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white=)](#)
+[![Microsoft%20SQL%20Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white=)](#)
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e788a2c587ceee2f4cbd632236a4b6256667d7556f6d6933cdece1190825318f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3035313232413f7374796c653d666c6174266c6f676f3d6d6f6e676f6462"><img src="https://camo.githubusercontent.com/e788a2c587ceee2f4cbd632236a4b6256667d7556f6d6933cdece1190825318f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3035313232413f7374796c653d666c6174266c6f676f3d6d6f6e676f6462" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&amp;logo=mongodb" style="max-width: 100%;"></a>&nbsp;
+-->
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/64c6f3c785dd27ca636f41de6c540b99186d4f5cf2d080ee6fb6b067da59acaa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6963726f736f667425323053514c2532305365727665722d3035313232413f7374796c653d666c6174266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d313537324236"><img src="https://camo.githubusercontent.com/64c6f3c785dd27ca636f41de6c540b99186d4f5cf2d080ee6fb6b067da59acaa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6963726f736f667425323053514c2532305365727665722d3035313232413f7374796c653d666c6174266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d313537324236" alt="SqlServer" data-canonical-src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&amp;logo=microsoft%20sql%20server&amp;logoColor=1572B6" style="max-width: 100%;"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/09807d60bef7fe173ae782521252fb89febe297cf24bd373c065f340dd63ce34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3035313232413f7374796c653d666c6174266c6f676f3d6d7973716c"><img src="https://camo.githubusercontent.com/09807d60bef7fe173ae782521252fb89febe297cf24bd373c065f340dd63ce34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3035313232413f7374796c653d666c6174266c6f676f3d6d7973716c" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-05122A?style=flat&amp;logo=mysql" style="max-width: 100%;"></a>&nbsp;</p>
+
+
 #### ☁ Cloud
 [![microsoft%20azure Badge](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white=)](#)
 
@@ -108,21 +126,3 @@ Buscando evoluir meus conhecimentos e desenvolvimento profissional faço cursos 
 #### 💻 Workspace Spec
 [![dell-laptop Badge](https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white=)](#)
 
-
-
-
-
-<!--
-**jdugalde/jdugalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
