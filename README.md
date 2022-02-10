@@ -44,6 +44,7 @@ Sempre buscando evoluir meus conhecimentos e desenvolvimento profissional faço 
 
 #### 💡 Projetos - Digital Innovation One
 
+» Jogo Gênesis: https://jdugalde.github.io/game-genesis/ <br>
 » Jogo Resgate: https://jdugalde.github.io/jogo-resgate/ <br>
 » Clone Netflix: https://jdugalde.github.io/netflix-clone/ <br>
 » Página de login Instagram: https://jdugalde.github.io/pagina-instagram/ <br>
