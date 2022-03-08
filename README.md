@@ -41,7 +41,7 @@ Sempre buscando evoluir meus conhecimentos e desenvolvimento profissional faço 
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"><img align="center" alt="Ton-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;"></a>
 </div>
 -->
-#### 💡 Projetos - GrowDev
+#### 💡 Projeto - GrowDev
 » Nikel - Controle de finanças: https://jdugalde.github.io/Nikel-Growdev/ <br>
   
 #### 💡 Projetos - Digital Innovation One
