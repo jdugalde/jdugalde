@@ -47,7 +47,8 @@ Além da faculdade faço cursos extracurriculares que abrangem as tecnologias de
 » Nikel - Controle de finanças: https://jdugalde.github.io/Nikel-Growdev/ <br>
   
 #### 💡 Projetos - Digital Innovation One
-
+  
+» Projeto Jogo do Mario: https://jdugalde.github.io/supermario/ <br>
 » Jogo Gênesis: https://jdugalde.github.io/game-genesis/ <br>
 » Jogo Resgate: https://jdugalde.github.io/jogo-resgate/ <br>
 » Clone Netflix: https://jdugalde.github.io/netflix-clone/ <br>
